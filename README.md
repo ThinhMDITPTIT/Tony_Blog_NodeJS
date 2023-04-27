@@ -1,2 +1,12 @@
 # Tony_Blog_NodeJS
-Tony_Blog: NodeJS - Express - Bootstrap - MongoDB
+Techstack: 
+- NodeJS
+- Express
+- MVC Model
+- Route
+- Middleware
+- Helper (Sortable)
+- Bootstrap
+- Handlebars
+- JQuery
+- MongoDB
